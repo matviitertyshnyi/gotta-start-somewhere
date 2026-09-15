@@ -34,4 +34,4 @@ This project was built to practice core Python concepts, including file handling
     ```bash
     python todolist.py
 
-https://github.com/matviitertyshnyi/gotta-start-somewhere
+[https://github.com/matviitertyshnyi/gotta-start-somewhere](https://roadmap.sh/projects/task-tracker)
