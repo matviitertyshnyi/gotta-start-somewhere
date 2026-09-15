@@ -33,3 +33,5 @@ This project was built to practice core Python concepts, including file handling
 2. Run the application from your terminal:
     ```bash
     python todolist.py
+
+https://github.com/matviitertyshnyi/gotta-start-somewhere.git
